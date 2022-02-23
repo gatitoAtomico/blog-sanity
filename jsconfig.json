@@ -1,0 +1,7 @@
+// set absolute pathe from root folder
+
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
